@@ -1,0 +1,14 @@
+We are seeking a Machine Learning Engineer Intern to help build data-driven features.
+
+Responsibilities:
+- Clean and analyze datasets
+- Train and evaluate ML models
+- Build simple APIs and dashboards
+- Collaborate using Git
+
+Required Skills:
+- Python, Pandas, NumPy
+- scikit-learn, basic PyTorch or TensorFlow
+- SQL
+- Version control (Git)
+- Basics of NLP or Computer Vision are a plus

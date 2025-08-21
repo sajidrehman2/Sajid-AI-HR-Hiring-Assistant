@@ -1,0 +1,14 @@
+Ayesha Khan
+Email: ayesha.khan@example.com | Phone: +92 345 9876543
+Portfolio: ayesha.dev
+
+Summary
+Machine Learning enthusiast with projects in Computer Vision and NLP.
+
+Projects
+- Image classification using PyTorch and OpenCV
+- Named Entity Recognition using Transformers (BERT)
+- Flask REST API for predictions
+
+Skills
+Python, PyTorch, TensorFlow, OpenCV, Transformers, BERT, Flask, Docker, Git

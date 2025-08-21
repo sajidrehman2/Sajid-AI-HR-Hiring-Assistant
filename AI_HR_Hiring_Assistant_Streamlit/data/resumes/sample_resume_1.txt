@@ -1,0 +1,14 @@
+Sajid Rehman
+Email: sajid@example.com | Phone: +92-300-1234567
+GitHub: github.com/sajid
+
+Education
+- BS in Computer Science, 2024
+
+Experience
+- 1 year as a junior data analyst (intern)
+- Built a sentiment analysis model with scikit-learn
+- Deployed a Streamlit dashboard (Python, Pandas, NumPy, Matplotlib, Git)
+
+Skills
+Python, NumPy, Pandas, scikit-learn, Streamlit, Git, SQL, NLP
