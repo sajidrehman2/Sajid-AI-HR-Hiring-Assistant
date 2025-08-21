@@ -1,8 +1,13 @@
+import os
 import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
+# Build absolute path to faq.csv
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # goes up from /src/
+faq_path = os.path.join(BASE_DIR, "data", "faq.csv")
+
 # Load FAQ data
-faq = pd.read_csv("AI_HR_Hiring_Assistant_Streamlit/data/faq.csv")
+faq = pd.read_csv(faq_path)
 
 # Load embedding model
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
